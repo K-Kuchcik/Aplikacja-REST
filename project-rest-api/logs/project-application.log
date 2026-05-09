@@ -1,6 +1,0 @@
-2026-04-12 11:42:05.920 [restartedMain] INFO  c.project.ProjectRestApiApplication.logStarting(54) - Starting ProjectRestApiApplication using Java 21.0.10 with PID 15764 (C:\Users\kacpe\IdeaProjects\project-rest-api\project-rest-api\build\classes\java\main started by kacpe in C:\Users\kacpe\IdeaProjects\project-rest-api)
-2026-04-12 11:42:05.984 [restartedMain] INFO  c.project.ProjectRestApiApplication.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
-2026-04-12 11:42:20.281 [restartedMain] INFO  c.project.ProjectRestApiApplication.logStarted(60) - Started ProjectRestApiApplication in 15.531 seconds (process running for 17.215)
-2026-04-12 11:56:47.367 [tomcat-handler-33] INFO  c.project.service.StudentServiceImpl.setStudent(39) - Zapisywanie studenta: Jan Kowalski
-2026-04-12 12:13:44.893 [tomcat-handler-38] INFO  c.project.service.ProjektServiceImpl.setProjekt(38) - Zapisywanie projektu: System rejestracji studentów
-2026-04-12 12:27:09.421 [tomcat-handler-51] INFO  c.project.service.ProjektServiceImpl.deleteProjekt(45) - Usuwanie projektu o ID=3
